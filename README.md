@@ -6,6 +6,10 @@ A minimal implementation of a GPT (Generative Pre-trained Transformer) model bui
 
 This repository contains a step-by-step implementation of a GPT model, starting from a simple bigram model and progressively building up to a full transformer architecture with multi-head self-attention, feed-forward networks, and layer normalization.
 
+## Architecture
+![image](https://github.com/user-attachments/assets/3ad5b6fa-0755-47ce-ae8c-56b29ee2d4b3)
+
+
 ## 🎯 Features
 
 - **Character-level tokenization** - Simple character-based vocabulary
